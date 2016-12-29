@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Student(double)
+comment0.text=Creates\ a\ Student\ object
+comment1.params=t
+comment1.target=void\ setArrivalTime(double)
+comment1.text=Set\ the\ arrival\ time
+comment2.params=
+comment2.target=double\ getArrivalTime()
+comment2.text=Get\ the\ arrival\ time
+numComments=3
